@@ -6,7 +6,6 @@ Chinese copywriting guidelines for better written communication.
 Other languages:
 
 - [English](README.en.md)
-- [Chinese Traditional](https://github.com/sparanoid/chinese-copywriting-guidelines)
 - [Chinese Simplified](README.md)
 
 -----
@@ -209,16 +208,6 @@ compared with:
 > 请[提交一个 issue](#) 并分配给相关同事。
 
 > 访问我们网站的最新动态，请[点击这里](#)进行订阅！
-
-### Use corner brackets for Chinese Simplified
-
-Usage:
-
-> 「老师，『有条不紊』的『紊』是什么意思？」
-
-compared with:
-
-> “老师，‘有条不紊’的‘紊’是什么意思？”
 
 ## Tools
 
