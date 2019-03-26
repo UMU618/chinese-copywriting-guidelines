@@ -6,7 +6,6 @@
 Other languages:
 
 - [English](README.en.md)
-- [Chinese Traditional](https://github.com/sparanoid/chinese-copywriting-guidelines)
 - [Chinese Simplified](README.md)
 
 -----
@@ -244,16 +243,6 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 > 请[提交一个 issue](#) 并分配给相关同事。
 
 > 访问我们网站的最新动态，请[点击这里](#)进行订阅！
-
-### 简体中文使用直角引号
-
-用法：
-
-> 「老师，『有条不紊』的『紊』是什么意思？」
-
-对比用法：
-
-> “老师，‘有条不紊’的‘紊’是什么意思？”
 
 ## 工具
 
