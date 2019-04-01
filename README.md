@@ -19,7 +19,7 @@ Other languages:
     * [中文与数字之间需要增加空格](#中文与数字之间需要增加空格)
     * [数字与单位之间无需增加空格](#数字与单位之间无需增加空格)
     * [全角标点与其他字符之间不加空格](#全角标点与其他字符之间不加空格)
-    * [`-ms-text-autospace` to the rescue?](#-ms-text-autospace-to-the-rescue)
+    * [`-ms-text-autospace` 解决方案](#-ms-text-autospace-to-the-rescue)
 * [标点符号](#标点符号)
     * [不重复使用标点符号](#不重复使用标点符号)
 * [全角和半角](#全角和半角)
@@ -40,9 +40,9 @@ Other languages:
 
 ## 空格
 
-「有研究显示，打字的时候不喜欢在中文和英文之间加空格的人，感情路都走得很辛苦，有七成的比例会在 34 岁的时候跟自己不爱的人结婚，而其余三成的人最后只能把遗产留给自己的猫。毕竟爱情跟书写都需要适时地留白。
+有研究显示，打字的时候不喜欢在中文和英文之间加空格的人，感情路都走得很辛苦，有七成的比例会在 34 岁的时候跟自己不爱的人结婚，而其余三成的人最后只能把遗产留给自己的猫。毕竟爱情跟书写都需要适时地留白。
 
-与大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
+与大家共勉之。——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
 
 ### 中英文之间需要增加空格
 
@@ -60,7 +60,7 @@ Other languages:
 
 > 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
 
-例外：「豆瓣FM」等产品名词，按照官方所定义的格式书写。
+例外：“豆瓣FM”等产品名词，按照官方所定义的格式书写。
 
 ### 中文与数字之间需要增加空格
 
@@ -108,7 +108,7 @@ Other languages:
 
 > 刚刚买了一部 iPhone ，好开心！
 
-### `-ms-text-autospace` to the rescue?
+### `-ms-text-autospace` 解决方案
 
 Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/ie/ms531164(v=vs.85).aspx) 的 CSS 属性可以实现自动为中英文之间增加空白。不过目前并未普及，另外在其他应用场景，例如 OS X、iOS 的用户界面目前并不存在这个特性，所以请继续保持随手加空格的习惯。
 
@@ -120,7 +120,7 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 德国队竟然战胜了巴西队！
 
-> 她竟然对你说「喵」？！
+> 她竟然对你说“喵”？！
 
 错误：
 
@@ -140,7 +140,7 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 正确：
 
-> 嗨！你知道嘛？今天前台的小妹跟我说「喵」了哎！
+> 嗨！你知道嘛？今天前台的小妹跟我说“喵”了哎！
 
 > 核磁共振成像（NMRI）是什么原理都不知道？JFGI！
 
@@ -170,7 +170,7 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 正确：
 
-> 乔布斯那句话是怎么说的？「Stay hungry, stay foolish.」
+> 乔布斯那句话是怎么说的？“Stay hungry, stay foolish.”
 
 > 推荐你阅读《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
