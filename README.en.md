@@ -39,9 +39,9 @@ Other languages:
 
 ## Spacing
 
-「有研究显示，打字的时候不喜欢在中文和英文之间加空格的人，感情路都走得很辛苦，有七成的比例会在 34 岁的时候跟自己不爱的人结婚，而其余三成的人最后只能把遗产留给自己的猫。毕竟爱情跟书写都需要适时地留白。
+有研究显示，打字的时候不喜欢在中文和英文之间加空格的人，感情路都走得很辛苦，有七成的比例会在 34 岁的时候跟自己不爱的人结婚，而其余三成的人最后只能把遗产留给自己的猫。毕竟爱情跟书写都需要适时地留白。
 
-与大家共勉之。」——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
+与大家共勉之。——[vinta/paranoid-auto-spacing](https://github.com/vinta/pangu.js)
 
 ### Place one space before/after English words
 
@@ -119,7 +119,7 @@ Good:
 
 > 德国队竟然战胜了巴西队！
 
-> 她竟然对你说「喵」？！
+> 她竟然对你说“喵”？！
 
 Bad:
 
@@ -139,7 +139,7 @@ If you’re not familiar with fullwidth and halfwidth forms please refer to [Hal
 
 Good:
 
-> 嗨！你知道嘛？今天前台的小妹跟我说「喵」了哎！
+> 嗨！你知道嘛？今天前台的小妹跟我说“喵”了哎！
 
 > 核磁共振成像（NMRI）是什么原理都不知道？JFGI！
 
@@ -169,7 +169,7 @@ Exceptions: fullwidth numbers are acceptable for better visual alignment in grap
 
 Good:
 
-> 乔布斯那句话是怎么说的？「Stay hungry, stay foolish.」
+> 乔布斯那句话是怎么说的？“Stay hungry, stay foolish.”
 
 > 推荐你阅读《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
